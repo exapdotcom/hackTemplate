@@ -1,0 +1,14 @@
+# Copy this file to local.properties and adjust for your machine.
+# local.properties is ignored by git.
+#
+# sdk.dir=C\:\\Users\\you\\AppData\\Local\\Android\\Sdk
+
+# Backend URL. 10.0.2.2 is the host machine from the Android emulator.
+hack.backendUrl=http://10.0.2.2:8080/
+
+# true  -> MockDemoRepository / MockAuthRepository
+# false -> Retrofit implementations
+hack.useMocks=true
+
+# SUCCESS | EMPTY | ERROR | SLOW
+hack.mockScenario=SUCCESS

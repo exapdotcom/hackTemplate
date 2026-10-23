@@ -1,0 +1,31 @@
+# Gradle / Android
+.gradle/
+**/build/
+local.properties
+!local.properties.example
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+
+# IDE
+.idea/
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets and signing
+*.jks
+*.keystore
+secrets.properties
+.env
+google-services.json
+
+# Misc
+*.log
+
+# Local research notes, not part of the public template
+research/

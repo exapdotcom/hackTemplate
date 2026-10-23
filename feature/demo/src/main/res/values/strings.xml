@@ -1,0 +1,9 @@
+<resources>
+    <string name="demo_title">Demo</string>
+    <string name="demo_mock_mode">Mock mode</string>
+    <string name="demo_subtitle">A small feature skeleton that works without the backend.</string>
+    <string name="demo_item_clicked">%1$s tapped</string>
+    <string name="demo_empty_title">No demo items</string>
+    <string name="demo_empty_message">Switch the mock scenario or refresh the list.</string>
+    <string name="demo_refreshing">Refreshing…</string>
+</resources>

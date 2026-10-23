@@ -1,0 +1,21 @@
+<resources>
+    <string name="core_loading">Loading…</string>
+    <string name="core_retry">Retry</string>
+    <string name="core_refresh">Refresh</string>
+    <string name="core_empty_title">Nothing here yet</string>
+    <string name="core_empty_message">New items will appear here.</string>
+    <string name="core_error_network">No connection. Check your network and try again.</string>
+    <string name="core_error_server">The server is unavailable. Try again later.</string>
+    <string name="core_error_unauthorized">Your session has expired. Please sign in again.</string>
+    <string name="core_error_http">The request failed. Try again.</string>
+    <string name="core_error_data">The server returned an unexpected response.</string>
+    <string name="core_error_unknown">Something went wrong. Try again.</string>
+    <string name="core_sign_in">Sign in</string>
+    <string name="core_sign_out">Sign out</string>
+    <string name="core_continue_as_guest">Continue as guest</string>
+    <string name="core_mock_scenario">Mock scenario</string>
+    <string name="core_mock_success">Success</string>
+    <string name="core_mock_empty">Empty</string>
+    <string name="core_mock_error">Error</string>
+    <string name="core_mock_slow">Slow</string>
+</resources>
